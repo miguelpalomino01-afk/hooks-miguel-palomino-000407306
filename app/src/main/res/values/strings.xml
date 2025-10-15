@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LaunchModes</string>
+    <string name="standard_launch_mode">standard_launch_mode</string>
+    <string name="single_top_launch_mode">single_top_launch_mode</string>
+    <string name="main_title">main_title</string>
+</resources>
